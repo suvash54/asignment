@@ -1,0 +1,30 @@
+1. name of movie whose director is Gina Prince-Bythewood
+2. name of director of movie The Old Guard
+3. run time of movie The Old Guard
+4. genre type of movie The Old Guard
+5. date of movie The Old Guard
+6. name of director of movie Dark
+7. name of movie whose director is Louis Hofmann
+8. run time of movie Dark
+9. date of movie Dark
+10. genre type of movie Dark
+11. name of director of movie Greyhound
+12. name of movie whose director is Aaron Schneider
+13. run time of movie Greyhound
+14. date of movie Greyhound
+15. genre type of movie Greyhound
+16. name of director of movie Palm Springs
+17. name of movie whose director is Max Barbakow
+18. run time of movie Palm Springs
+19. date of movie Palm Springs
+20. genre type of movie Palm Springs
+21. name of movie whose director is Thomas Kail
+22. name of director of movie Hamilton
+23. run time of movie Hamilton
+24. date of movie Hamilton
+25. genre type of movie Hamilton
+26. name of director of movie Cursed
+27. name of movie whose director is Katherine Langford
+28. run time of movie Cursed
+29. date of movie Cursed
+30. genre type of movie Cursed
